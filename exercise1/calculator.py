@@ -70,6 +70,5 @@ def divide(a: Number, b: Number) -> Number:
     # TODO: Implement this function
     if b=0:
         raise ValueError
-    else:
-        return a/b
+    return a/b
     pass
